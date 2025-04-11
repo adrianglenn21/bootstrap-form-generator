@@ -1,0 +1,13 @@
+[database]
+username = user
+password = pass
+host = localhost
+port = 5432
+database = db
+
+[mqtt]
+broker_url = localhost
+broker_port = 1883
+topic = sensor
+username = 
+password = 
